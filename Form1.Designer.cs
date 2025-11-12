@@ -36,7 +36,7 @@
             // 
             // label1
             // 
-            label1.Location = new Point(12, 23);
+            label1.Location = new Point(12, 9);
             label1.Name = "label1";
             label1.Size = new Size(91, 20);
             label1.TabIndex = 0;
@@ -45,14 +45,14 @@
             // 
             // numberTextBox
             // 
-            numberTextBox.Location = new Point(109, 20);
+            numberTextBox.Location = new Point(109, 6);
             numberTextBox.Name = "numberTextBox";
             numberTextBox.Size = new Size(94, 23);
             numberTextBox.TabIndex = 1;
             // 
             // generateButton
             // 
-            generateButton.Location = new Point(12, 49);
+            generateButton.Location = new Point(12, 35);
             generateButton.Name = "generateButton";
             generateButton.Size = new Size(191, 23);
             generateButton.TabIndex = 2;
@@ -63,9 +63,9 @@
             // resultsListBox
             // 
             resultsListBox.FormattingEnabled = true;
-            resultsListBox.Location = new Point(12, 78);
+            resultsListBox.Location = new Point(12, 67);
             resultsListBox.Name = "resultsListBox";
-            resultsListBox.Size = new Size(191, 154);
+            resultsListBox.Size = new Size(191, 169);
             resultsListBox.TabIndex = 3;
             // 
             // Form1
